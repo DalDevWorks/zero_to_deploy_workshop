@@ -2,6 +2,8 @@
 
 ### Important links for the workshope
 
+Create [GitHub](https://github.com/) and [Heroku](https://www.heroku.com/) acconts
+
 - Install Rails (Mac/Linux)
     - http://installrails.com/steps/choose_os
 - Install Rails (PC)
