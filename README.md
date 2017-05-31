@@ -1,24 +1,16 @@
-# README
+# Zero to Deploy: The Basics
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Important links for the workshope
 
-Things you may want to cover:
+- Install Rails (Mac/Linux)
+    - http://installrails.com/steps/choose_os
+- Install Rails (PC)
+    - http://railsinstaller.org/en
+- The puma.rb config
+    - https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server
+    
+    
+### Future work
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Learn Rails (https://www.railstutorial.org/book)
+- Learn other web dev skills (www.udemy.com)
