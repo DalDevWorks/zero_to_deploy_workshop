@@ -8,7 +8,8 @@ Create [GitHub](https://github.com/) and [Heroku](https://www.heroku.com/) accon
     - http://installrails.com/steps/choose_os
 - Install Rails (PC)
     - http://railsinstaller.org/en
-- The puma.rb config
+- Install Heroku CLI (there's different commands/installers for Windows/Mac/Linux pick the one that works with your OS)
+- The puma.rb config (you will need this link during the workshop)
     - https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server
     
     
